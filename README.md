@@ -1,4 +1,4 @@
-## Basic API Call from React using the State and Effect hooks
+## A basic API call example using React's State and Effect hooks
 
 *After cloning the repository locally, make sure you run 'npm install' at the root folder to bring in all of the necessary packages.*
 
