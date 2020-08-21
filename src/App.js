@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from 'react';
 
-
 function App() {
   const [error, setError] = useState(null)
   const [weatherDataIsLoaded, setWeatherDataIsLoaded] = useState(false)

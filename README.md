@@ -1,3 +1,22 @@
+## Basic API Call from React using the State and Effect hooks
+
+*After cloning the repository locally, make sure you run 'npm install' at the root folder to bring in all of the necessary packages.*
+
+<br />
+
+### How to get your OpenWeatherMap API Key
+
+Step 1: Sign up for an OpenWeatherMap account
+- https://home.openweathermap.org/users/sign_in
+
+Step 2.0: Generate a new API Key
+- https://home.openweathermap.org/api_keys
+
+Step 3: Copy and paste that key into the 'apiKey' variable in App.js
+
+
+<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
