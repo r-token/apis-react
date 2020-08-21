@@ -16,6 +16,8 @@ Step 3: Copy and paste that key into the 'apiKey' variable in App.js
 
 
 <br />
+<hr />
+<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
